@@ -1,4 +1,4 @@
-ptCloud = pcread('C:\Users\ЭѕЯЃем\Desktop\final.pcd');
+ptCloud = pcread('C:\FILE_PATH\FILE_NAME.pcd');
 pc_point = ptCloud.Location
 xlimit = ptCloud.XLimits
 ylimit = ptCloud.YLimits
